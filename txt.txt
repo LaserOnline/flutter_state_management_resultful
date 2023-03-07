@@ -1,0 +1,8 @@
+// * เปลียนหน้า
+// Get.toNamed("/home");
+// * เปลียน หน้า
+// Get.to(() => Home());
+// * ลบ stack ทั้งหมด
+// Get.offAll(() => Home());
+// * กลับหน้า
+// Get.back();
